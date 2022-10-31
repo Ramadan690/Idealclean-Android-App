@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+
+}
+rootProject.name = "IdealClean"
+include ':app', ':junit-4.13.2'

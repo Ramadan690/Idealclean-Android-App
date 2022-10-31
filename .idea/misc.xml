@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV1/IdealCleanV1/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV1/IdealCleanV1/app/src/main/res/layout/activity_sign_up.xml" value="0.10371376811594203" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV1/IdealCleanV1/app/src/main/res/layout/tsize.xml" value="0.10371376811594203" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV1/IdealCleanV1/app/src/main/res/xml/tsize.xml" value="0.17579075425790755" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV2/IdealCleanV1/app/src/main/res/layout/activity_after_booking.xml" value="0.12952898550724637" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV2/IdealCleanV1/app/src/main/res/layout/activity_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV2/IdealCleanV1/app/src/main/res/layout/activity_sign_up.xml" value="0.10371376811594203" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV2/IdealCleanV1/app/src/main/res/layout/tsize.xml" value="0.12952898550724637" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV3/IdealCleanV1/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV3/IdealCleanV1/app/src/main/res/layout/tsize.xml" value="0.12952898550724637" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV4/IdealCleanV1/app/src/main/res/layout/activity_after_booking.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV4/IdealCleanV1/app/src/main/res/layout/activity_after_contact.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV4/IdealCleanV1/app/src/main/res/layout/activity_contact.xml" value="0.12952898550724637" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV4/IdealCleanV1/app/src/main/res/layout/activity_history.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV4/IdealCleanV1/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV4/IdealCleanV1/app/src/main/res/layout/activity_trans.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/Film Maker/AndroidStudioProjects/IdealCleanV4/IdealCleanV1/app/src/main/res/menu/menu.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/GIRGI/Downloads/IdealCleanOrg/IdealClean/app/src/main/res/layout/activity_main.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/GIRGI/Downloads/IdealCleanOrg/IdealCleanV1/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/GIRGI/Downloads/IdealCleanOrg/IdealCleanV1/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>

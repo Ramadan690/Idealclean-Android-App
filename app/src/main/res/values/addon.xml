@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+    <string-array name="addon">
+        <item> </item>
+        <item>No</item>
+        <item>Yes</item>
+
+
+
+    </string-array>
+</resources>

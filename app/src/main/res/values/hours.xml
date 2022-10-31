@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+    <string-array name="hours">
+        <item> </item>
+        <item>2h (RM56)</item>
+        <item>3h (RM84)</item>
+        <item>4h (RM112)</item>
+        <item>5h (RM140)</item>
+        <item>6h (RM168)</item>
+        <item>7h (RM196)</item>
+        <item>8h (RM224)</item>
+
+
+
+    </string-array>
+</resources>
